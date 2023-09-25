@@ -1,0 +1,379 @@
+local args = {
+    [1] = "SprayPaint"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Extras"):WaitForChild("ReplicateToy"):InvokeServer(unpack(args))
+
+for i,v in pairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+        if v.name == "Emotes" then
+            v.Parent = game.Players.LocalPlayer.Character
+    end
+end
+
+for i,v in pairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+        if v.name == "SprayPaint" then
+            v.Parent = game.Players.LocalPlayer.Character
+    end
+end
+
+local args = {
+    [1] = 14882200615,
+    [2] = Enum.NormalId.Top,
+    [3] = 75,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Part"),
+    [5] = CFrame.new(-133.77276611328125, 131.69764709472656, -47.966941833496094, -0.9633503556251526, -0.15231305360794067, 0.22080983221530914, -0, 0.82315993309021, 0.5678097605705261, -0.2682466208934784, 0.5469997525215149, -0.7929912805557251)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+
+local args = {
+    [1] = 14882200615,
+    [2] = Enum.NormalId.Top,
+    [3] = 75,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Part"),
+    [5] = CFrame.new(-112.9745101928711, 130.97177124023438, -59.312171936035156, -0.9983775019645691, 0.027602149173617363, -0.04980472847819328, 1.862645149230957e-09, 0.8746575117111206, 0.4847416281700134, 0.05694197863340378, 0.48395514488220215, -0.8732383251190186)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+
+local args = {
+    [1] = 14882200615,
+    [2] = Enum.NormalId.Top,
+    [3] = 100,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Part"),
+    [5] = CFrame.new(-132.23681640625, 145.32432556152344, 100.6824951171875, 0.9970757961273193, -0.05364186689257622, 0.05442778393626213, -3.7252898543727042e-09, 0.7122302055358887, 0.701945960521698, -0.07641880214214325, -0.6998933553695679, 0.710147500038147)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+
+local args = {
+    [1] = 14882200615,
+    [2] = Enum.NormalId.Top,
+    [3] = 100,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Part"),
+    [5] = CFrame.new(-128.53176879882812, 139.5884246826172, 87.93561553955078, -0.9999966621398926, -0.0003758865059353411, 0.0025634728372097015, -2.9103826987286752e-11, 0.9894199371337891, 0.1450803577899933, -0.0025908846873790026, 0.14507988095283508, -0.9894165992736816)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+
+local args = {
+    [1] = 14882200615,
+    [2] = Enum.NormalId.Top,
+    [3] = 100,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Part"),
+    [5] = CFrame.new(-110.55335235595703, 136.125, 71.28720092773438, 0.09849344938993454, 0.7731395363807678, -0.6265416741371155, -3.7252894102834944e-09, 0.6296029686927795, 0.7769171595573425, 0.9951376914978027, -0.07652124762535095, 0.06201177090406418)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+
+local args = {
+    [1] = 14882200615,
+    [2] = Enum.NormalId.Top,
+    [3] = 100,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("InvisWalls"):WaitForChild("InvisWalls"),
+    [5] = CFrame.new(-101.74295043945312, 133.6510467529297, 23.34841918945312, 0.8888043165206909, 0.1117326095700264, -0.44445788860321045, -0, 0.9698244333267212, 0.24380487203598022, 0.4582870304584503, -0.21669481694698334, 0.8619840741157532)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14882200615,
+    [2] = Enum.NormalId.Bottom,
+    [3] = 100,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("InvisWalls"):WaitForChild("InvisWalls"),
+    [5] = CFrame.new(-101.74295043945312, 133.6510467529297, 23.34841918945312, 0.8888043165206909, 0.1117326095700264, -0.44445788860321045, -0, 0.9698244333267212, 0.24380487203598022, 0.4582870304584503, -0.21669481694698334, 0.8619840741157532)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+wait(0.2)
+
+local args = {
+    [1] = 14882200615,
+    [2] = Enum.NormalId.Top,
+    [3] = 100,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("InvisWalls"):WaitForChild("InvisWalls"),
+    [5] = CFrame.new(-101.74295043945312, 134.6510467529297, 23.34841918945312, 0.8888043165206909, 0.1117326095700264, -0.44445788860321045, -0, 0.9698244333267212, 0.24380487203598022, 0.4582870304584503, -0.21669481694698334, 0.8619840741157532)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14882200615,
+    [2] = Enum.NormalId.Bottom,
+    [3] = 100,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("InvisWalls"):WaitForChild("InvisWalls"),
+    [5] = CFrame.new(-101.74295043945312, 134.6510467529297, 23.34841918945312, 0.8888043165206909, 0.1117326095700264, -0.44445788860321045, -0, 0.9698244333267212, 0.24380487203598022, 0.4582870304584503, -0.21669481694698334, 0.8619840741157532)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+wait(0.2)
+
+local args = {
+    [1] = 14882200615,
+    [2] = Enum.NormalId.Top,
+    [3] = 100,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("InvisWalls"):WaitForChild("InvisWalls"),
+    [5] = CFrame.new(-101.74295043945312, 135.6510467529297, 23.34841918945312, 0.8888043165206909, 0.1117326095700264, -0.44445788860321045, -0, 0.9698244333267212, 0.24380487203598022, 0.4582870304584503, -0.21669481694698334, 0.8619840741157532)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14882200615,
+    [2] = Enum.NormalId.Bottom,
+    [3] = 100,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("InvisWalls"):WaitForChild("InvisWalls"),
+    [5] = CFrame.new(-101.74295043945312, 135.6510467529297, 23.34841918945312, 0.8888043165206909, 0.1117326095700264, -0.44445788860321045, -0, 0.9698244333267212, 0.24380487203598022, 0.4582870304584503, -0.21669481694698334, 0.8619840741157532)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+wait(0.2)
+
+local args = {
+    [1] = 14882200615,
+    [2] = Enum.NormalId.Top,
+    [3] = 100,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("InvisWalls"):WaitForChild("InvisWalls"),
+    [5] = CFrame.new(-101.74295043945312, 136.6510467529297, 23.34841918945312, 0.8888043165206909, 0.1117326095700264, -0.44445788860321045, -0, 0.9698244333267212, 0.24380487203598022, 0.4582870304584503, -0.21669481694698334, 0.8619840741157532)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14882200615,
+    [2] = Enum.NormalId.Bottom,
+    [3] = 100,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("InvisWalls"):WaitForChild("InvisWalls"),
+    [5] = CFrame.new(-101.74295043945312, 136.6510467529297, 23.34841918945312, 0.8888043165206909, 0.1117326095700264, -0.44445788860321045, -0, 0.9698244333267212, 0.24380487203598022, 0.4582870304584503, -0.21669481694698334, 0.8619840741157532)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+wait(0.2)
+
+local args = {
+    [1] = 14882200615,
+    [2] = Enum.NormalId.Top,
+    [3] = 100,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("InvisWalls"):WaitForChild("InvisWalls"),
+    [5] = CFrame.new(-101.74295043945312, 137.6510467529297, 23.34841918945312, 0.8888043165206909, 0.1117326095700264, -0.44445788860321045, -0, 0.9698244333267212, 0.24380487203598022, 0.4582870304584503, -0.21669481694698334, 0.8619840741157532)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14882200615,
+    [2] = Enum.NormalId.Bottom,
+    [3] = 100,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("InvisWalls"):WaitForChild("InvisWalls"),
+    [5] = CFrame.new(-101.74295043945312, 137.6510467529297, 23.34841918945312, 0.8888043165206909, 0.1117326095700264, -0.44445788860321045, -0, 0.9698244333267212, 0.24380487203598022, 0.4582870304584503, -0.21669481694698334, 0.8619840741157532)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+wait(0.2)
+
+local args = {
+    [1] = 14882200615,
+    [2] = Enum.NormalId.Top,
+    [3] = 100,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("InvisWalls"):WaitForChild("InvisWalls"),
+    [5] = CFrame.new(-101.74295043945312, 138.6510467529297, 23.34841918945312, 0.8888043165206909, 0.1117326095700264, -0.44445788860321045, -0, 0.9698244333267212, 0.24380487203598022, 0.4582870304584503, -0.21669481694698334, 0.8619840741157532)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14882200615,
+    [2] = Enum.NormalId.Bottom,
+    [3] = 100,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("InvisWalls"):WaitForChild("InvisWalls"),
+    [5] = CFrame.new(-101.74295043945312, 138.6510467529297, 23.34841918945312, 0.8888043165206909, 0.1117326095700264, -0.44445788860321045, -0, 0.9698244333267212, 0.24380487203598022, 0.4582870304584503, -0.21669481694698334, 0.8619840741157532)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+wait(0.2)
+
+local args = {
+    [1] = 14882200615,
+    [2] = Enum.NormalId.Top,
+    [3] = 100,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("InvisWalls"):WaitForChild("InvisWalls"),
+    [5] = CFrame.new(-101.74295043945312, 139.6510467529297, 23.34841918945312, 0.8888043165206909, 0.1117326095700264, -0.44445788860321045, -0, 0.9698244333267212, 0.24380487203598022, 0.4582870304584503, -0.21669481694698334, 0.8619840741157532)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14882200615,
+    [2] = Enum.NormalId.Bottom,
+    [3] = 100,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("InvisWalls"):WaitForChild("InvisWalls"),
+    [5] = CFrame.new(-101.74295043945312, 139.6510467529297, 23.34841918945312, 0.8888043165206909, 0.1117326095700264, -0.44445788860321045, -0, 0.9698244333267212, 0.24380487203598022, 0.4582870304584503, -0.21669481694698334, 0.8619840741157532)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+wait(0.2)
+
+local args = {
+    [1] = 14882200615,
+    [2] = Enum.NormalId.Top,
+    [3] = 100,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("InvisWalls"):WaitForChild("InvisWalls"),
+    [5] = CFrame.new(-101.74295043945312, 140.6510467529297, 23.34841918945312, 0.8888043165206909, 0.1117326095700264, -0.44445788860321045, -0, 0.9698244333267212, 0.24380487203598022, 0.4582870304584503, -0.21669481694698334, 0.8619840741157532)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14882200615,
+    [2] = Enum.NormalId.Bottom,
+    [3] = 100,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("InvisWalls"):WaitForChild("InvisWalls"),
+    [5] = CFrame.new(-101.74295043945312, 140.6510467529297, 23.34841918945312, 0.8888043165206909, 0.1117326095700264, -0.44445788860321045, -0, 0.9698244333267212, 0.24380487203598022, 0.4582870304584503, -0.21669481694698334, 0.8619840741157532)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+wait(0.2)
+
+local args = {
+    [1] = 14882200615,
+    [2] = Enum.NormalId.Top,
+    [3] = 100,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("InvisWalls"):WaitForChild("InvisWalls"),
+    [5] = CFrame.new(-101.74295043945312, 141.6510467529297, 23.34841918945312, 0.8888043165206909, 0.1117326095700264, -0.44445788860321045, -0, 0.9698244333267212, 0.24380487203598022, 0.4582870304584503, -0.21669481694698334, 0.8619840741157532)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14882200615,
+    [2] = Enum.NormalId.Bottom,
+    [3] = 100,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("InvisWalls"):WaitForChild("InvisWalls"),
+    [5] = CFrame.new(-101.74295043945312, 141.6510467529297, 23.34841918945312, 0.8888043165206909, 0.1117326095700264, -0.44445788860321045, -0, 0.9698244333267212, 0.24380487203598022, 0.4582870304584503, -0.21669481694698334, 0.8619840741157532)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+wait(0.2)
+
+local args = {
+    [1] = 14882200615,
+    [2] = Enum.NormalId.Top,
+    [3] = 100,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("InvisWalls"):WaitForChild("InvisWalls"),
+    [5] = CFrame.new(-101.74295043945312, 142.6510467529297, 23.34841918945312, 0.8888043165206909, 0.1117326095700264, -0.44445788860321045, -0, 0.9698244333267212, 0.24380487203598022, 0.4582870304584503, -0.21669481694698334, 0.8619840741157532)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14882200615,
+    [2] = Enum.NormalId.Bottom,
+    [3] = 100,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("InvisWalls"):WaitForChild("InvisWalls"),
+    [5] = CFrame.new(-101.74295043945312, 142.6510467529297, 23.34841918945312, 0.8888043165206909, 0.1117326095700264, -0.44445788860321045, -0, 0.9698244333267212, 0.24380487203598022, 0.4582870304584503, -0.21669481694698334, 0.8619840741157532)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+wait(0.2)
+
+local args = {
+    [1] = 14882200615,
+    [2] = Enum.NormalId.Top,
+    [3] = 100,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("InvisWalls"):WaitForChild("InvisWalls"),
+    [5] = CFrame.new(-101.74295043945312, 143.6510467529297, 23.34841918945312, 0.8888043165206909, 0.1117326095700264, -0.44445788860321045, -0, 0.9698244333267212, 0.24380487203598022, 0.4582870304584503, -0.21669481694698334, 0.8619840741157532)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14882200615,
+    [2] = Enum.NormalId.Bottom,
+    [3] = 100,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("InvisWalls"):WaitForChild("InvisWalls"),
+    [5] = CFrame.new(-101.74295043945312, 143.6510467529297, 23.34841918945312, 0.8888043165206909, 0.1117326095700264, -0.44445788860321045, -0, 0.9698244333267212, 0.24380487203598022, 0.4582870304584503, -0.21669481694698334, 0.8619840741157532)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+wait(0.2)
+
+local args = {
+    [1] = 14882200615,
+    [2] = Enum.NormalId.Top,
+    [3] = 100,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("InvisWalls"):WaitForChild("InvisWalls"),
+    [5] = CFrame.new(-101.74295043945312, 144.6510467529297, 23.34841918945312, 0.8888043165206909, 0.1117326095700264, -0.44445788860321045, -0, 0.9698244333267212, 0.24380487203598022, 0.4582870304584503, -0.21669481694698334, 0.8619840741157532)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14882200615,
+    [2] = Enum.NormalId.Bottom,
+    [3] = 100,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("InvisWalls"):WaitForChild("InvisWalls"),
+    [5] = CFrame.new(-101.74295043945312, 144.6510467529297, 23.34841918945312, 0.8888043165206909, 0.1117326095700264, -0.44445788860321045, -0, 0.9698244333267212, 0.24380487203598022, 0.4582870304584503, -0.21669481694698334, 0.8619840741157532)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+wait(0.2)
+
+local args = {
+    [1] = 14882200615,
+    [2] = Enum.NormalId.Top,
+    [3] = 100,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("InvisWalls"):WaitForChild("InvisWalls"),
+    [5] = CFrame.new(-101.74295043945312, 145.6510467529297, 23.34841918945312, 0.8888043165206909, 0.1117326095700264, -0.44445788860321045, -0, 0.9698244333267212, 0.24380487203598022, 0.4582870304584503, -0.21669481694698334, 0.8619840741157532)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14882200615,
+    [2] = Enum.NormalId.Bottom,
+    [3] = 100,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("InvisWalls"):WaitForChild("InvisWalls"),
+    [5] = CFrame.new(-101.74295043945312, 145.6510467529297, 23.34841918945312, 0.8888043165206909, 0.1117326095700264, -0.44445788860321045, -0, 0.9698244333267212, 0.24380487203598022, 0.4582870304584503, -0.21669481694698334, 0.8619840741157532)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+wait(0.2)
+
+local args = {
+    [1] = 14882200615,
+    [2] = Enum.NormalId.Top,
+    [3] = 100,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("InvisWalls"):WaitForChild("InvisWalls"),
+    [5] = CFrame.new(-101.74295043945312, 146.6510467529297, 23.34841918945312, 0.8888043165206909, 0.1117326095700264, -0.44445788860321045, -0, 0.9698244333267212, 0.24380487203598022, 0.4582870304584503, -0.21669481694698334, 0.8619840741157532)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14882200615,
+    [2] = Enum.NormalId.Bottom,
+    [3] = 100,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("InvisWalls"):WaitForChild("InvisWalls"),
+    [5] = CFrame.new(-101.74295043945312, 146.6510467529297, 23.34841918945312, 0.8888043165206909, 0.1117326095700264, -0.44445788860321045, -0, 0.9698244333267212, 0.24380487203598022, 0.4582870304584503, -0.21669481694698334, 0.8619840741157532)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
