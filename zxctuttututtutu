@@ -1,0 +1,1679 @@
+local args = {
+    [1] = 14897303506,
+    [2] = Enum.NormalId.Left,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14897303506,
+    [2] = Enum.NormalId.Left,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(0,0.5,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14897303506,
+    [2] = Enum.NormalId.Left,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(0,1,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14897303506,
+    [2] = Enum.NormalId.Left,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(0,1.5,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14897303506,
+    [2] = Enum.NormalId.Left,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(0,2,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14897303506,
+    [2] = Enum.NormalId.Left,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(0,2.5,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14897303506,
+    [2] = Enum.NormalId.Left,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(0,3,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14897303506,
+    [2] = Enum.NormalId.Left,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(0,3.5,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14897303506,
+    [2] = Enum.NormalId.Left,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(0,4,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14897303506,
+    [2] = Enum.NormalId.Left,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(0,4.5,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14897303506,
+    [2] = Enum.NormalId.Left,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(0,5,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14897303506,
+    [2] = Enum.NormalId.Left,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(0,6,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14897303506,
+    [2] = Enum.NormalId.Left,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(0,7,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14897303506,
+    [2] = Enum.NormalId.Left,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(0,8,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14897303506,
+    [2] = Enum.NormalId.Left,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(0,9,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14897303506,
+    [2] = Enum.NormalId.Left,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(0,10,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14897303506,
+    [2] = Enum.NormalId.Left,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(0,11,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14897303506,
+    [2] = Enum.NormalId.Left,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(0,12,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14897303506,
+    [2] = Enum.NormalId.Left,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(0,13,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14897303506,
+    [2] = Enum.NormalId.Left,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(0,14,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14897303506,
+    [2] = Enum.NormalId.Left,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(0,15,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14897303506,
+    [2] = Enum.NormalId.Left,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(0,-1,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14897303506,
+    [2] = Enum.NormalId.Left,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(0,-2,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14897303506,
+    [2] = Enum.NormalId.Left,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(0,-3,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14891784581,
+    [2] = Enum.NormalId.Left,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(1,15,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14891784581,
+    [2] = Enum.NormalId.Left,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(2,15,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14891784581,
+    [2] = Enum.NormalId.Left,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(3,15,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14891784581,
+    [2] = Enum.NormalId.Left,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(4,15,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14891784581,
+    [2] = Enum.NormalId.Left,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(5,15,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14891784581,
+    [2] = Enum.NormalId.Left,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(6,15,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14891784581,
+    [2] = Enum.NormalId.Left,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(7,15,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14891784581,
+    [2] = Enum.NormalId.Left,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(8,15,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14891784581,
+    [2] = Enum.NormalId.Left,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(9,15,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14891784581,
+    [2] = Enum.NormalId.Left,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(10,15,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14891784581,
+    [2] = Enum.NormalId.Left,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(1,14,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14891784581,
+    [2] = Enum.NormalId.Left,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(2,14,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14891784581,
+    [2] = Enum.NormalId.Left,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(3,14,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14891784581,
+    [2] = Enum.NormalId.Left,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(4,14,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14891784581,
+    [2] = Enum.NormalId.Left,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(5,14,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14891784581,
+    [2] = Enum.NormalId.Left,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(6,14,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14891784581,
+    [2] = Enum.NormalId.Left,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(7,14,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14891784581,
+    [2] = Enum.NormalId.Left,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(8,14,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14891784581,
+    [2] = Enum.NormalId.Left,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(9,14,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14891784581,
+    [2] = Enum.NormalId.Left,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(10,14,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14897377381,
+    [2] = Enum.NormalId.Left,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(1,13,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14897377381,
+    [2] = Enum.NormalId.Left,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(2,13,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14897377381,
+    [2] = Enum.NormalId.Left,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(3,13,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14897377381,
+    [2] = Enum.NormalId.Left,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(4,13,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14897377381,
+    [2] = Enum.NormalId.Left,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(5,13,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14897377381,
+    [2] = Enum.NormalId.Left,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(6,13,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14897377381,
+    [2] = Enum.NormalId.Left,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(7,13,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14897377381,
+    [2] = Enum.NormalId.Left,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(8,13,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14897377381,
+    [2] = Enum.NormalId.Left,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(9,13,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14897377381,
+    [2] = Enum.NormalId.Left,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(10,13,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14897377381,
+    [2] = Enum.NormalId.Left,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(1,12,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14897377381,
+    [2] = Enum.NormalId.Left,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(2,12,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14897377381,
+    [2] = Enum.NormalId.Left,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(3,12,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14897377381,
+    [2] = Enum.NormalId.Left,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(4,12,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14897377381,
+    [2] = Enum.NormalId.Left,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(5,12,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14897377381,
+    [2] = Enum.NormalId.Left,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(6,12,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14897377381,
+    [2] = Enum.NormalId.Left,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(7,12,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14897377381,
+    [2] = Enum.NormalId.Left,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(8,12,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14897377381,
+    [2] = Enum.NormalId.Left,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(9,12,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14897377381,
+    [2] = Enum.NormalId.Left,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(10,12,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14897375241,
+    [2] = Enum.NormalId.Left,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(1,11,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14897375241,
+    [2] = Enum.NormalId.Left,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(2,11,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14897375241,
+    [2] = Enum.NormalId.Left,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(3,11,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14897375241,
+    [2] = Enum.NormalId.Left,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(4,11,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14897375241,
+    [2] = Enum.NormalId.Left,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(5,11,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14897375241,
+    [2] = Enum.NormalId.Left,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(6,11,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14897375241,
+    [2] = Enum.NormalId.Left,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(7,11,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14897375241,
+    [2] = Enum.NormalId.Left,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(8,11,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14897375241,
+    [2] = Enum.NormalId.Left,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(9,11,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14897375241,
+    [2] = Enum.NormalId.Left,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(10,11,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14897375241,
+    [2] = Enum.NormalId.Left,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(1,10,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14897375241,
+    [2] = Enum.NormalId.Left,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(2,10,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14897375241,
+    [2] = Enum.NormalId.Left,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(3,10,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14897375241,
+    [2] = Enum.NormalId.Left,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(4,10,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14897375241,
+    [2] = Enum.NormalId.Left,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(5,10,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14897375241,
+    [2] = Enum.NormalId.Left,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(6,10,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14897375241,
+    [2] = Enum.NormalId.Left,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(7,10,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14897375241,
+    [2] = Enum.NormalId.Left,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(8,10,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14897375241,
+    [2] = Enum.NormalId.Left,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(9,10,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14897375241,
+    [2] = Enum.NormalId.Left,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(10,10,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14897303506,
+    [2] = Enum.NormalId.Right,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14897303506,
+    [2] = Enum.NormalId.Right,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(0,0.5,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14897303506,
+    [2] = Enum.NormalId.Right,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(0,1,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14897303506,
+    [2] = Enum.NormalId.Right,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(0,1.5,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14897303506,
+    [2] = Enum.NormalId.Right,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(0,2,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14897303506,
+    [2] = Enum.NormalId.Right,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(0,2.5,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14897303506,
+    [2] = Enum.NormalId.Right,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(0,3,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14897303506,
+    [2] = Enum.NormalId.Right,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(0,3.5,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14897303506,
+    [2] = Enum.NormalId.Right,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(0,4,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14897303506,
+    [2] = Enum.NormalId.Right,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(0,4.5,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14897303506,
+    [2] = Enum.NormalId.Right,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(0,5,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14897303506,
+    [2] = Enum.NormalId.Right,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(0,6,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14897303506,
+    [2] = Enum.NormalId.Right,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(0,7,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14897303506,
+    [2] = Enum.NormalId.Right,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(0,8,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14897303506,
+    [2] = Enum.NormalId.Right,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(0,9,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14897303506,
+    [2] = Enum.NormalId.Right,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(0,10,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14897303506,
+    [2] = Enum.NormalId.Right,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(0,11,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14897303506,
+    [2] = Enum.NormalId.Right,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(0,12,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14897303506,
+    [2] = Enum.NormalId.Right,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(0,13,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14897303506,
+    [2] = Enum.NormalId.Right,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(0,14,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14897303506,
+    [2] = Enum.NormalId.Right,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(0,15,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14897303506,
+    [2] = Enum.NormalId.Right,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(0,-1,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14897303506,
+    [2] = Enum.NormalId.Right,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(0,-2,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14897303506,
+    [2] = Enum.NormalId.Right,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(0,-3,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14891784581,
+    [2] = Enum.NormalId.Right,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(1,15,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14891784581,
+    [2] = Enum.NormalId.Right,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(2,15,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14891784581,
+    [2] = Enum.NormalId.Right,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(3,15,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14891784581,
+    [2] = Enum.NormalId.Right,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(4,15,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14891784581,
+    [2] = Enum.NormalId.Right,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(5,15,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14891784581,
+    [2] = Enum.NormalId.Right,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(6,15,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14891784581,
+    [2] = Enum.NormalId.Right,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(7,15,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14891784581,
+    [2] = Enum.NormalId.Right,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(8,15,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14891784581,
+    [2] = Enum.NormalId.Right,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(9,15,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14891784581,
+    [2] = Enum.NormalId.Right,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(10,15,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14891784581,
+    [2] = Enum.NormalId.Right,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(1,14,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14891784581,
+    [2] = Enum.NormalId.Right,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(2,14,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14891784581,
+    [2] = Enum.NormalId.Right,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(3,14,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14891784581,
+    [2] = Enum.NormalId.Right,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(4,14,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14891784581,
+    [2] = Enum.NormalId.Right,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(5,14,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14891784581,
+    [2] = Enum.NormalId.Right,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(6,14,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14891784581,
+    [2] = Enum.NormalId.Right,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(7,14,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14891784581,
+    [2] = Enum.NormalId.Right,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(8,14,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14891784581,
+    [2] = Enum.NormalId.Right,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(9,14,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14891784581,
+    [2] = Enum.NormalId.Right,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(10,14,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14897377381,
+    [2] = Enum.NormalId.Right,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(1,13,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14897377381,
+    [2] = Enum.NormalId.Right,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(2,13,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14897377381,
+    [2] = Enum.NormalId.Right,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(3,13,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14897377381,
+    [2] = Enum.NormalId.Right,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(4,13,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14897377381,
+    [2] = Enum.NormalId.Right,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(5,13,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14897377381,
+    [2] = Enum.NormalId.Right,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(6,13,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14897377381,
+    [2] = Enum.NormalId.Right,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(7,13,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14897377381,
+    [2] = Enum.NormalId.Right,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(8,13,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14897377381,
+    [2] = Enum.NormalId.Right,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(9,13,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14897377381,
+    [2] = Enum.NormalId.Right,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(10,13,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14897377381,
+    [2] = Enum.NormalId.Right,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(1,12,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14897377381,
+    [2] = Enum.NormalId.Right,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(2,12,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14897377381,
+    [2] = Enum.NormalId.Right,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(3,12,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14897377381,
+    [2] = Enum.NormalId.Right,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(4,12,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14897377381,
+    [2] = Enum.NormalId.Right,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(5,12,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14897377381,
+    [2] = Enum.NormalId.Right,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(6,12,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14897377381,
+    [2] = Enum.NormalId.Right,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(7,12,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14897377381,
+    [2] = Enum.NormalId.Right,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(8,12,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14897377381,
+    [2] = Enum.NormalId.Right,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(9,12,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14897377381,
+    [2] = Enum.NormalId.Right,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(10,12,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14897375241,
+    [2] = Enum.NormalId.Right,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(1,11,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14897375241,
+    [2] = Enum.NormalId.Right,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(2,11,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14897375241,
+    [2] = Enum.NormalId.Right,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(3,11,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14897375241,
+    [2] = Enum.NormalId.Right,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(4,11,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14897375241,
+    [2] = Enum.NormalId.Right,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(5,11,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14897375241,
+    [2] = Enum.NormalId.Right,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(6,11,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14897375241,
+    [2] = Enum.NormalId.Right,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(7,11,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14897375241,
+    [2] = Enum.NormalId.Right,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(8,11,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14897375241,
+    [2] = Enum.NormalId.Right,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(9,11,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14897375241,
+    [2] = Enum.NormalId.Right,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(10,11,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14897375241,
+    [2] = Enum.NormalId.Right,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(1,10,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14897375241,
+    [2] = Enum.NormalId.Right,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(2,10,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14897375241,
+    [2] = Enum.NormalId.Right,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(3,10,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14897375241,
+    [2] = Enum.NormalId.Right,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(4,10,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14897375241,
+    [2] = Enum.NormalId.Right,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(5,10,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14897375241,
+    [2] = Enum.NormalId.Right,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(6,10,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14897375241,
+    [2] = Enum.NormalId.Right,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(7,10,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14897375241,
+    [2] = Enum.NormalId.Right,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(8,10,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14897375241,
+    [2] = Enum.NormalId.Right,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(9,10,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
+
+local args = {
+    [1] = 14897375241,
+    [2] = Enum.NormalId.Right,
+    [3] = 1,
+    [4] = workspace:WaitForChild("Lobby"):WaitForChild("Map"):WaitForChild("Fountain"):WaitForChild("Middle"):WaitForChild("Base"),
+    [5] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(10,10,0)
+}
+
+game:GetService("Players").LocalPlayer.Character.SprayPaint.Remote:FireServer(unpack(args))
